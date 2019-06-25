@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="district" table="x_334257_college_m_student" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>district</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hyderabad</label>
+            <language>en</language>
+            <name>x_334257_college_m_student</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-15 16:53:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93b207421bf0330083eb32a3cc4bcbae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-15 16:53:05</sys_updated_on>
+            <value>hyderabad</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>district</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Karimnagar</label>
+            <language>en</language>
+            <name>x_334257_college_m_student</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-15 16:53:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3b207421bf0330083eb32a3cc4bcbaf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-15 16:53:05</sys_updated_on>
+            <value>karimnagar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>district</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Khammam</label>
+            <language>en</language>
+            <name>x_334257_college_m_student</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-15 16:53:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53b207421bf0330083eb32a3cc4bcbb0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-15 16:53:05</sys_updated_on>
+            <value>khammam</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>district</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Warangal</label>
+            <language>en</language>
+            <name>x_334257_college_m_student</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-15 16:53:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dfb207421bf0330083eb32a3cc4bcbb0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-15 16:53:05</sys_updated_on>
+            <value>warangal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>district</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adilabad</label>
+            <language>en</language>
+            <name>x_334257_college_m_student</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-15 16:53:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5fb207421bf0330083eb32a3cc4bcbb1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-15 16:53:05</sys_updated_on>
+            <value>adilabad</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>district</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nizamabad</label>
+            <language>en</language>
+            <name>x_334257_college_m_student</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-15 16:53:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbb207421bf0330083eb32a3cc4bcbb2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-15 16:53:05</sys_updated_on>
+            <value>nizamabad</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>district</element>
+            <name>x_334257_college_m_student</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-15 16:53:05</sys_created_on>
+            <sys_id>dbb207421bf0330083eb32a3cc4bcbae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>district</sys_name>
+            <sys_package display_value="College Management" source="x_334257_college_m">2aabfd461b30330083eb32a3cc4bcb16</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="College Management">2aabfd461b30330083eb32a3cc4bcb16</sys_scope>
+            <sys_update_name>sys_choice_x_334257_college_m_student_district</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-15 16:53:05</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

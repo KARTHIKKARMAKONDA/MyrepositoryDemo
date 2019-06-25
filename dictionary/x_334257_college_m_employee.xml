@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employee" max_length="40" name="x_334257_college_m_employee" type="collection">
+        <element default="0" label="Bonus" max_length="40" name="bonus" type="float"/>
+        <element label="Dnumber" max_length="32" name="dnumber" reference="x_334257_college_m_department" type="reference"/>
+        <element display="true" label="Empid" max_length="40" name="empid" type="integer"/>
+        <element label="Full name" max_length="40" name="ename" type="string"/>
+        <element label="First Name" max_length="20" name="first_name" type="string"/>
+        <element label="isManager" max_length="40" name="ismanager" type="boolean"/>
+        <element label="Last Name" max_length="20" name="last_name" type="string"/>
+        <element label="Manager Id" max_length="32" name="manager_id" reference="x_334257_college_m_employee" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="IDEmployee" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Salary" max_length="40" name="salary" type="float"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Total Salary" max_length="40" name="total_salary" type="float"/>
+        <element attributes="edge_encryption_enabled=true" label="Incentives" max_length="40" name="u_string_1" type="string"/>
+        <index name="index">
+            <element name="dnumber"/>
+        </index>
+        <index name="index2">
+            <element name="manager_id"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

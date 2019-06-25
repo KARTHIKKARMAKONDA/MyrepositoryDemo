@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Student" max_length="40" name="x_334257_college_m_student" type="collection">
+        <element label="Aadhar Number2" mandatory="true" max_length="40" name="aadhar_number" type="longint"/>
+        <element choice="1" label="Country" mandatory="true" max_length="40" name="country" type="string">
+            <choice>
+                <element inactive_on_update="false" label="India" sequence="0" value="india"/>
+                <element inactive_on_update="false" label="Pakistan" sequence="1" value="pakistan"/>
+                <element inactive_on_update="false" label="China" sequence="2" value="china"/>
+                <element inactive_on_update="false" label="Nepal" sequence="3" value="nepal"/>
+                <element inactive_on_update="false" label="Sri Lanka" sequence="4" value="sri lanka"/>
+                <element inactive_on_update="false" label="Afganistan" sequence="5" value="afganistan"/>
+                <element inactive_on_update="false" label="USA" sequence="6" value="usa"/>
+                <element inactive_on_update="false" label="Austarila" sequence="7" value="austarila"/>
+            </choice>
+        </element>
+        <element choice="1" label="District" mandatory="true" max_length="40" name="district" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Hyderabad" sequence="0" value="hyderabad"/>
+                <element inactive_on_update="false" label="Karimnagar" sequence="1" value="karimnagar"/>
+                <element inactive_on_update="false" label="Khammam" sequence="2" value="khammam"/>
+                <element inactive_on_update="false" label="Warangal" sequence="3" value="warangal"/>
+                <element inactive_on_update="false" label="Adilabad" sequence="4" value="adilabad"/>
+                <element inactive_on_update="false" label="Nizamabad" sequence="5" value="nizamabad"/>
+            </choice>
+        </element>
+        <element label="DOB" mandatory="true" max_length="40" name="dob" type="glide_date"/>
+        <element label="Door Number" max_length="40" name="door_number" type="string"/>
+        <element choice="1" label="Email ID" mandatory="true" max_length="40" name="email_id" type="string">
+            <choice/>
+        </element>
+        <element label="Fahter Number" mandatory="true" max_length="40" name="fahter_number" type="phone_number_e164"/>
+        <element label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element label="Inter College Name" mandatory="true" max_length="40" name="inter_college_name" type="string"/>
+        <element label="Inter Percentage" mandatory="true" max_length="40" name="inter_percentage" type="float"/>
+        <element label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element label="Mandal" max_length="40" name="mandal" type="string"/>
+        <element label="Middle Name" max_length="40" name="middle_name" type="string"/>
+        <element label="Pincode" max_length="40" name="pincode" type="string"/>
+        <element choice="3" default="telangana" label="State" mandatory="true" max_length="40" name="state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Telangana" sequence="0" value="telangana"/>
+                <element inactive_on_update="false" label="Andra Pradesh" sequence="1" value="andra pradesh"/>
+                <element inactive_on_update="false" label="Tamil Nadu" sequence="2" value="tamil nadu"/>
+                <element inactive_on_update="false" label="Karmataka" sequence="3" value="karmataka"/>
+                <element inactive_on_update="false" label="Maharastra" sequence="4" value="maharastra"/>
+                <element inactive_on_update="false" label="Uttar Pradesh" sequence="5" value="uttar pradesh"/>
+            </choice>
+        </element>
+        <element label="Street" max_length="40" name="street" type="string"/>
+        <element label="Student  ID" mandatory="true" max_length="40" name="student_id" type="string"/>
+        <element label="Student Mobile Number" mandatory="true" max_length="40" name="student_mobile_number" type="phone_number_e164"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="10 th Percentage" mandatory="true" max_length="40" name="u_10_th_percentage" type="float"/>
+        <element label="10 th School Name" mandatory="true" max_length="40" name="u_10_th_school_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mother Name" mandatory="true" max_length="40" name="u_mothername" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="You will not get full fee waving" label="Fee Waving" max_length="40" name="u_string_1" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="38304bce1bb0330083eb32a3cc4bcb72" sys_domain="global" table="x_334257_college_m_student" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-15 16:41:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c304bce1bb0330083eb32a3cc4bcb74</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_334257_college_m_student" name="x_334257_college_m_student" sys_domain="global" view="Default view">38304bce1bb0330083eb32a3cc4bcb72</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_334257_college_m_student" sys_domain="global" view="Default view">5e5fbe8e1bb0330083eb32a3cc4bcbab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-15 16:41:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-15 16:41:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc308bce1bb0330083eb32a3cc4bcb48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_334257_college_m_student" name="x_334257_college_m_student" sys_domain="global" view="Default view">38304bce1bb0330083eb32a3cc4bcb72</sys_ui_form>
+            <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_334257_college_m_student" sys_domain="global" view="Default view">f0304bce1bb0330083eb32a3cc4bcb71</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-15 16:41:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-15 16:43:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3704fce1bb0330083eb32a3cc4bcbaf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_334257_college_m_student" name="x_334257_college_m_student" sys_domain="global" view="Default view">38304bce1bb0330083eb32a3cc4bcb72</sys_ui_form>
+            <sys_ui_section caption="Academics" display_value="Academics" name="x_334257_college_m_student" sys_domain="global" view="Default view">23700fce1bb0330083eb32a3cc4bcba7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-15 16:43:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-15 16:41:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38308bce1bb0330083eb32a3cc4bcb4c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_334257_college_m_student" name="x_334257_college_m_student" sys_domain="global" view="Default view">38304bce1bb0330083eb32a3cc4bcb72</sys_ui_form>
+            <sys_ui_section caption="Address" display_value="Address" name="x_334257_college_m_student" sys_domain="global" view="Default view">f8304bce1bb0330083eb32a3cc4bcb71</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-15 16:43:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_334257_college_m_student</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-15 16:41:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38304bce1bb0330083eb32a3cc4bcb72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_334257_college_m_student</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="College Management" source="x_334257_college_m">2aabfd461b30330083eb32a3cc4bcb16</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="College Management">2aabfd461b30330083eb32a3cc4bcb16</sys_scope>
+            <sys_update_name>sys_ui_form_sections_38304bce1bb0330083eb32a3cc4bcb72</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-15 16:41:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Department" max_length="40" name="x_334257_college_m_department" type="collection">
+        <element label="dlocation" max_length="40" name="dlocation" type="string"/>
+        <element display="true" label="dname" max_length="40" name="dname" type="string"/>
+        <element label="dno" max_length="40" name="dno" type="integer"/>
+    </element>
+</database>

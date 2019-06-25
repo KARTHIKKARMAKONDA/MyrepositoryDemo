@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_script_action">
+    <sysevent_script_action action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition_script/>
+        <description/>
+        <event_name>x_334257_college_m.changebonus</event_name>
+        <name>ChangeBonus500</name>
+        <order>100</order>
+        <script><![CDATA[current.bonus=current.bonus+500;
+gs.info("param1"+event.param1+"param2"+event.param2);
+current.update();]]></script>
+        <synchronous>false</synchronous>
+        <sys_class_name>sysevent_script_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-17 19:03:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fb5c33561bc6330083eb32a3cc4bcb84</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ChangeBonus500</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="College Management" source="x_334257_college_m">2aabfd461b30330083eb32a3cc4bcb16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="College Management">2aabfd461b30330083eb32a3cc4bcb16</sys_scope>
+        <sys_update_name>sysevent_script_action_fb5c33561bc6330083eb32a3cc4bcb84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-18 06:51:18</sys_updated_on>
+    </sysevent_script_action>
+</record_update>

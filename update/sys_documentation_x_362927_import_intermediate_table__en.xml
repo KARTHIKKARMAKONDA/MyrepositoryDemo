@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Intermediate Table" language="en" table="x_362927_import_intermediate_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Intermediate Table</label>
+            <language>en</language>
+            <name>x_362927_import_intermediate_table</name>
+            <plural>Intermediate Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 01:06:50</sys_created_on>
+            <sys_id>ba0355781b5e330083eb32a3cc4bcbb3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Intermediate Table</sys_name>
+            <sys_package display_value="College Management" source="x_334257_college_m">2aabfd461b30330083eb32a3cc4bcb16</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="College Management">2aabfd461b30330083eb32a3cc4bcb16</sys_scope>
+            <sys_update_name>sys_documentation_x_362927_import_intermediate_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 01:06:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
